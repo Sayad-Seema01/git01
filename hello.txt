@@ -1,6 +1,0 @@
-hello world!!!!My name is Seeema
-I completed my btech in 2025
-hoy
-yay i am gonna commit and push to remote repo now
-
-Adding new feature
